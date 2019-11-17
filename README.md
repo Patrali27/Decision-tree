@@ -1,2 +1,2 @@
 # Decision-tree
-Decision tree implementation using python in o form of an xml
+Decision tree implementation using python in the form of an xml
